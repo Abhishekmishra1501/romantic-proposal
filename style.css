@@ -45,3 +45,12 @@ input[type="submit"]{
     background-color: green;
     color: white;
 }
+
+#response {
+    margin-top: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: #ff0066;
+    display: none;  /* Initially hidden */
+}
